@@ -70,9 +70,14 @@ padding: 10px 0;
   text-align: center;
 }
 
+
 .load-more{
 width: 200px;
 margin: 0 auto 20px;
 display: block;
 float: none;
+}
+
+.hidden{ 
+  display: none;
 }
